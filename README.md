@@ -1,4 +1,4 @@
-<img src="https://snyk.io/wp-content/uploads/blog-banner-github-scanning.png" width="680" height="170">
+<img src="https://snyk.io/wp-content/uploads/blog-banner-github-scanning.png" width="100%">
 <h1 align="center">I'm Simon Carreño</h1>
 <h3 align="center">Web developer</h3>
 
