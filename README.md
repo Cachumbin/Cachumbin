@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Simon Carreño</h1>
+<img src="https://snyk.io/wp-content/uploads/blog-banner-github-scanning.png" width="680" height="170">
+<h1 align="center">I'm Simon Carreño</h1>
 <h3 align="center">Web developer</h3>
 
 - I’m currently learning **Javascript Objects**
