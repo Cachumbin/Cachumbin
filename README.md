@@ -8,6 +8,6 @@ I'm a young web developer who enjoys making apps and tools to solve simple and c
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=TecnnoBot03&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TecnnoBot03&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TecnnoBot03&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Cachumbin&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cachumbin&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cachumbin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
