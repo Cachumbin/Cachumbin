@@ -1,3 +1,5 @@
+![enter image description here](https://raw.githubusercontent.com/Cachumbin/Cachumbin/refs/heads/main/img/1.png)
+
 <h1 align="center">Hi 👋, I'm Cachumbin</h1>
 <h3 align="center">My name is Simon, a web developer interested in Machine Learning</h3>
 
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cachumbin&show_icons=true&locale=en" alt="cachumbin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cachumbin&" alt="cachumbin" /></p>
+w
