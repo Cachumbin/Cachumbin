@@ -9,11 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React Icons**
 
-- 👨‍💻 My portfolio [https://happy-smoke-06adf6c1e.5.azurestaticapps.net/](https://happy-smoke-06adf6c1e.5.azurestaticapps.net/)
-
 - 💬 Ask me about **Ract and JavaScript**
-
-- 📫 How to reach me **simoncarreno2006@gmail.com**
 
 ![enter image description here](https://raw.githubusercontent.com/Cachumbin/Cachumbin/refs/heads/main/img/2.png)
 
@@ -27,3 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cachumbin&show_icons=true&locale=en" alt="cachumbin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cachumbin&" alt="cachumbin" /></p>
+
+![enter image description here](https://raw.githubusercontent.com/Cachumbin/Cachumbin/refs/heads/main/img/4.png)
+
+- 📫 How to reach me **simoncarreno2006@gmail.com**
+
+- 👨‍💻 My portfolio [https://happy-smoke-06adf6c1e.5.azurestaticapps.net/](https://happy-smoke-06adf6c1e.5.azurestaticapps.net/)
